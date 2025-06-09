@@ -1,5 +1,5 @@
 
-📱 React Scientific Calculator
+##📱 React Scientific Calculator
 
 A fully functional scientific calculator built using **ReactJS** with support for:
 - Scientific functions (`sin`, `cos`, `tan`, `log`, `√`, `π`, `e`, `^`)
@@ -11,7 +11,7 @@ A fully functional scientific calculator built using **ReactJS** with support fo
 
 ---
 
-🚀 Features
+##🚀 Features
 
 - ✅ **Smart Expression Parsing** (handles `sin30`, `cos90`, etc.)
 - 🎨 **Dark Mode** and **Light Mode**
@@ -22,7 +22,7 @@ A fully functional scientific calculator built using **ReactJS** with support fo
 
 ---
 
-📦 Installation
+##📦 Installation
 
 1. **Clone the repository:**
    ```bash
