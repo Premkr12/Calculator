@@ -4,7 +4,7 @@
 A fully functional scientific calculator built using **ReactJS** with support for:
 - Scientific functions (`sin`, `cos`, `tan`, `log`, `√`, `π`, `e`, `^`)
 - Keyboard input
-- Expression evaluation with smart parsing (e.g., `sin30` → `Math.sin(30°)`)
+- Expression evaluation with smart parsing (e.g., `sin30` → `Math.sin(30°)`
 - Dark/Light theme toggle 🌙☀️
 - Switch between **Standard** and **Scientific** modes
 - Input history
