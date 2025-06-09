@@ -4,7 +4,7 @@ import './App.css';
 const App = () => {
   const [input, setInput] = useState('');
   const [darkMode, setDarkMode] = useState(false);
-  const [showScientific, setShowScientific] = useState(true);
+  const [showScientific, setShowScientific] = useState(false);
   const [history, setHistory] = useState([]);
 
   const evaluateExpression = (expr) => {
@@ -79,7 +79,7 @@ const App = () => {
     '4', '5', '6', '*',
     '1', '2', '3', '-',
     '.','0', '=', '+',
-    'C','','', '⌫'
+    'C','(',')', '⌫'
   ];
 
   return (
